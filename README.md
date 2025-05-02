@@ -58,5 +58,5 @@ The model requires further training to improve accuracy and generate more realis
 - **Code**: Available in the `code` folder.
 - **Comprehensive Report**: Detailed report on model architecture, training process, evaluation metrics, and performance graphs available in `report.pdf`.
 
-For questions or feedback, please [email](mailto:gayatriwalke@gmail.com).
+For questions or feedback, please [email](mailto:shriganeshlokapure6@gmail.com).
 Thank You
